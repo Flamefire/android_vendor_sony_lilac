@@ -479,7 +479,6 @@ proprietary/vendor/bin/taimport_vendor
 proprietary/vendor/bin/tftp_server
 proprietary/vendor/bin/thermal-engine
 proprietary/vendor/bin/time_daemon
-proprietary/vendor/bin/wvkbd
 proprietary/vendor/camera/
 proprietary/vendor/etc/a2dp_audio_policy_configuration.xml
 proprietary/vendor/etc/acdbdata/
