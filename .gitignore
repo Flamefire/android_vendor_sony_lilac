@@ -246,6 +246,7 @@ proprietary/etc/init/taimport.rc
 proprietary/etc/init/updatemiscta.rc
 proprietary/etc/permissions/com.fingerprints.extension.xml
 proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml
+proprietary/etc/permissions/com.sony.device.xml
 proprietary/etc/permissions/com.sonyericsson.android.semcrilextension.xml
 proprietary/etc/permissions/com.sonymobile.getmore.api.xml
 proprietary/etc/permissions/com.sonymobile.miscta.xml
@@ -253,6 +254,7 @@ proprietary/etc/permissions/qti_permissions.xml
 proprietary/etc/public.libraries-sony.txt
 proprietary/framework/com.fingerprints.extension.jar
 proprietary/framework/com.qti.snapdragon.sdk.display.jar
+proprietary/framework/com.sony.device.jar
 proprietary/framework/com.sonymobile.getmore.api.jar
 proprietary/framework/com.sonymobile.miscta_impl.jar
 proprietary/framework/semcrilextension.jar
