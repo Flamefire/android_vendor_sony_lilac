@@ -350,8 +350,6 @@ proprietary/vendor/bin/keyprovd
 proprietary/vendor/bin/mlog_qmi_service
 proprietary/vendor/bin/mm-pp-dpps
 proprietary/vendor/bin/msm_irqbalance
-proprietary/vendor/bin/pm-proxy
-proprietary/vendor/bin/pm-service
 proprietary/vendor/bin/qns
 proprietary/vendor/bin/qseecomd
 proprietary/vendor/bin/sct_service
@@ -680,7 +678,6 @@ proprietary/vendor/lib64/libOmxQcelp13Dec.so
 proprietary/vendor/lib64/libOmxVpp.so
 proprietary/vendor/lib64/libOmxWmaDec.so
 proprietary/vendor/lib64/libOpenCL.so
-proprietary/vendor/lib64/libperipheral_client.so
 proprietary/vendor/lib64/libprotobuf-c-idd.so
 proprietary/vendor/lib64/libprotobuf-c.so
 proprietary/vendor/lib64/libqisl.so
@@ -699,7 +696,6 @@ proprietary/vendor/lib64/libsensor_reg.so
 proprietary/vendor/lib64/libsensor1.so
 proprietary/vendor/lib64/libsi.so
 proprietary/vendor/lib64/libsns_low_lat_stream_stub.so
-proprietary/vendor/lib64/libspcom.so
 proprietary/vendor/lib64/libspl.so
 proprietary/vendor/lib64/libssd.so
 proprietary/vendor/lib64/libstagefright_hdcp.so
