@@ -243,6 +243,7 @@ proprietary/etc/firmware/tztpm.b05
 proprietary/etc/firmware/tztpm.b06
 proprietary/etc/firmware/tztpm.b07
 proprietary/etc/firmware/tztpm.mdt
+proprietary/etc/firmware/ufs/01AD-483238553632333031414D5220202020-D003.bin
 proprietary/etc/init/cacaoserver.rc
 proprietary/etc/init/mssconfig.rc
 proprietary/etc/init/taimport.rc
@@ -409,6 +410,7 @@ proprietary/vendor/bin/charge_service
 proprietary/vendor/bin/chargemon
 proprietary/vendor/bin/chargemon_shutdown
 proprietary/vendor/bin/cnss-daemon
+proprietary/vendor/bin/ffu
 proprietary/vendor/bin/hci_qcomm_init
 proprietary/vendor/bin/hdcp1prov
 proprietary/vendor/bin/hdcp2p2prov
@@ -746,6 +748,7 @@ proprietary/vendor/etc/init/init.kobjeventd.rc
 proprietary/vendor/etc/init/init.taqmi.rc
 proprietary/vendor/etc/init/mlog_qmi_service.rc
 proprietary/vendor/etc/init/sct_service.rc
+proprietary/vendor/etc/init/taimport_vendor.rc
 proprietary/vendor/etc/init/vendor.display.color@1.0-service.rc
 proprietary/vendor/etc/init/vendor.qti.esepowermanager@1.0-service.rc
 proprietary/vendor/etc/init/vendor.qti.hardware.qdutils_disp@1.0-service-qti.rc
@@ -919,6 +922,7 @@ proprietary/vendor/lib/egl/libq3dtools_esx.so
 proprietary/vendor/lib/egl/libQTapGLES.so
 proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so
 proprietary/vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so
+proprietary/vendor/lib/hw/audio.primary.msm8998.so
 proprietary/vendor/lib/hw/camera.lilac.so
 proprietary/vendor/lib/hw/com.qualcomm.qti.ant@1.0-impl.so
 proprietary/vendor/lib/hw/sound_trigger.primary.msm8998.so
