@@ -658,6 +658,8 @@ proprietary/vendor/lib/libmmqjpeg_codec.so
 proprietary/vendor/lib/libmmqjpegdma.so
 proprietary/vendor/lib/libmulawdec.so
 proprietary/vendor/lib/libnetmgr_common.so
+proprietary/vendor/lib/libnetmgr_nr_fusion.so
+proprietary/vendor/lib/libnetmgr_rmnet_ext.so
 proprietary/vendor/lib/libnetmgr.so
 proprietary/vendor/lib/libOmxAacDec.so
 proprietary/vendor/lib/libOmxAlacDec.so
@@ -951,6 +953,8 @@ proprietary/vendor/lib64/libmmcamera_dbg.so
 proprietary/vendor/lib64/libmmcamera_tintless_algo.so
 proprietary/vendor/lib64/libmulawdec.so
 proprietary/vendor/lib64/libnetmgr_common.so
+proprietary/vendor/lib64/libnetmgr_nr_fusion.so
+proprietary/vendor/lib64/libnetmgr_rmnet_ext.so
 proprietary/vendor/lib64/libnetmgr.so
 proprietary/vendor/lib64/libnlnetmgr.so
 proprietary/vendor/lib64/libOmxAacDec.so
