@@ -353,7 +353,6 @@ proprietary/vendor/bin/qns
 proprietary/vendor/bin/qseecomd
 proprietary/vendor/bin/sct_service
 proprietary/vendor/bin/sensors.qti
-proprietary/vendor/bin/ssgqmigd
 proprietary/vendor/bin/ta_qmi_service
 proprietary/vendor/bin/taimport_vendor
 proprietary/vendor/bin/thermal-engine
