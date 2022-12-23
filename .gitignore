@@ -1126,7 +1126,6 @@ proprietary/vendor/lib/libvqzip.so
 proprietary/vendor/lib/libwvhidl.so
 proprietary/vendor/lib/libwvtee.so
 proprietary/vendor/lib/libznr.so
-proprietary/vendor/lib/mediadrm/libwvdrmengine.so
 proprietary/vendor/lib/rfsa/adsp/libadsp_fd_skel.so
 proprietary/vendor/lib/rfsa/adsp/libadsp_hvx_add_constant.so
 proprietary/vendor/lib/rfsa/adsp/libadsp_hvx_skel.so
@@ -1225,7 +1224,6 @@ proprietary/vendor/lib64/libdsi_netctrl.so
 proprietary/vendor/lib64/libdsutils.so
 proprietary/vendor/lib64/libfastcrc.so
 proprietary/vendor/lib64/libfastcvadsp_stub.so
-proprietary/vendor/lib64/libfastcvopt.so
 proprietary/vendor/lib64/libfastrpc_utf_stub.so
 proprietary/vendor/lib64/libFidoCrypto_vendor.so
 proprietary/vendor/lib64/libFlacSwDec.so
