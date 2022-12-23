@@ -702,7 +702,6 @@ proprietary/vendor/lib/libvqzip.so
 proprietary/vendor/lib/libwvhidl.so
 proprietary/vendor/lib/libwvtee.so
 proprietary/vendor/lib/libznr.so
-proprietary/vendor/lib/mediadrm/
 proprietary/vendor/lib/rfsa/
 proprietary/vendor/lib/soundfx/
 proprietary/vendor/lib/vendor.qti.hardware.tui_comm@1.0.so
@@ -772,7 +771,6 @@ proprietary/vendor/lib64/libdsi_netctrl.so
 proprietary/vendor/lib64/libdsutils.so
 proprietary/vendor/lib64/libfastcrc.so
 proprietary/vendor/lib64/libfastcvadsp_stub.so
-proprietary/vendor/lib64/libfastcvopt.so
 proprietary/vendor/lib64/libfastrpc_utf_stub.so
 proprietary/vendor/lib64/libFidoCrypto_vendor.so
 proprietary/vendor/lib64/libFlacSwDec.so
