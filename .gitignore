@@ -1,13 +1,10 @@
 Android.bp 
 Android.mk
 lilac-vendor.mk
-
-proprietary/bin/cacaoserver
 proprietary/bin/mssconfig
 proprietary/bin/sony-modem-switcher
 proprietary/bin/taimport
 proprietary/bin/updatemiscta
-proprietary/etc/audio_policy.conf
 proprietary/etc/audio_policy.conf
 proprietary/etc/customization/modem/amss_fs_empty.mbn
 proprietary/etc/customization/modem/amss_fsg_lilac_a1_austria_volte_vowifi_tar.mbn
@@ -240,7 +237,6 @@ proprietary/etc/firmware/tztpm.b05
 proprietary/etc/firmware/tztpm.b06
 proprietary/etc/firmware/tztpm.b07
 proprietary/etc/firmware/tztpm.mdt
-proprietary/etc/init/cacaoserver.rc
 proprietary/etc/init/mssconfig.rc
 proprietary/etc/init/taimport.rc
 proprietary/etc/init/updatemiscta.rc
@@ -295,7 +291,6 @@ proprietary/lib/vendor.qti.esepowermanager@1.0.so
 proprietary/lib/vendor.qti.hardware.fm@1.0.so
 proprietary/lib/vendor.qti.hardware.qdutils_disp@1.0.so
 proprietary/lib/vendor.qti.hardware.qteeconnector@1.0.so
-proprietary/lib/vendor.qti.hardware.qteeconnector@1.0.so
 proprietary/lib/vendor.qti.hardware.radio.am@1.0.so
 proprietary/lib/vendor.qti.hardware.radio.lpa@1.0.so
 proprietary/lib/vendor.qti.hardware.radio.qcrilhook@1.0.so
@@ -349,7 +344,6 @@ proprietary/lib64/vendor.display.postproc@1.0.so
 proprietary/lib64/vendor.qti.esepowermanager@1.0.so
 proprietary/lib64/vendor.qti.hardware.fm@1.0.so
 proprietary/lib64/vendor.qti.hardware.qdutils_disp@1.0.so
-proprietary/lib64/vendor.qti.hardware.qteeconnector@1.0.so
 proprietary/lib64/vendor.qti.hardware.qteeconnector@1.0.so
 proprietary/lib64/vendor.qti.hardware.radio.am@1.0.so
 proprietary/lib64/vendor.qti.hardware.radio.lpa@1.0.so
@@ -442,15 +436,12 @@ proprietary/vendor/bin/hw/android.hardware.drm@1.1-service.widevine
 proprietary/vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti
 proprietary/vendor/bin/hw/android.hardware.keymaster@3.0-service-qti
 proprietary/vendor/bin/hw/fpc_fingerprint@2.1_HIDL-service
-proprietary/vendor/bin/hw/illumination_service
 proprietary/vendor/bin/hw/kobjeventd
-proprietary/vendor/bin/hw/touchbacklightd
 proprietary/vendor/bin/hw/vendor.display.color@1.0-service
 proprietary/vendor/bin/hw/vendor.qti.esepowermanager@1.0-service
 proprietary/vendor/bin/hw/vendor.qti.hardware.qdutils_disp@1.0-service-qti
 proprietary/vendor/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service
 proprietary/vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti
-proprietary/vendor/bin/hw/vendor.semc.hardware.light@1.0-service
 proprietary/vendor/bin/hw/vendor.semc.hardware.secd@1.0-service
 proprietary/vendor/bin/hw/vendor.semc.hardware.thermal@1.0-service
 proprietary/vendor/bin/hw/vendor.somc.hardware.camera.provider@1.0-service
@@ -504,11 +495,9 @@ proprietary/vendor/etc/init/android.hardware.drm@1.1-service.widevine.rc
 proprietary/vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc
 proprietary/vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc
 proprietary/vendor/etc/init/fpc_fingerprint@2.1_HIDL-service.rc
-proprietary/vendor/etc/init/init.illumination_service.rc
 proprietary/vendor/etc/init/init.keyprovd.rc
 proprietary/vendor/etc/init/init.kobjeventd.rc
 proprietary/vendor/etc/init/init.taqmi.rc
-proprietary/vendor/etc/init/init.touchbacklightd.rc
 proprietary/vendor/etc/init/mlog_qmi_service.rc
 proprietary/vendor/etc/init/sct_service.rc
 proprietary/vendor/etc/init/vendor.display.color@1.0-service.rc
@@ -516,7 +505,6 @@ proprietary/vendor/etc/init/vendor.qti.esepowermanager@1.0-service.rc
 proprietary/vendor/etc/init/vendor.qti.hardware.qdutils_disp@1.0-service-qti.rc
 proprietary/vendor/etc/init/vendor.qti.hardware.qteeconnector@1.0-service.rc
 proprietary/vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc
-proprietary/vendor/etc/init/vendor.semc.hardware.light@1.0-service.rc
 proprietary/vendor/etc/init/vendor.semc.hardware.secd@1.0-service.rc
 proprietary/vendor/etc/init/vendor.semc.hardware.thermal@1.0-service.rc
 proprietary/vendor/etc/init/vendor.somc.hardware.camera.provider@1.0-service.rc
@@ -527,7 +515,6 @@ proprietary/vendor/etc/libnfc-nxp.conf
 proprietary/vendor/etc/listen_platform_info.xml
 proprietary/vendor/etc/mixer_paths_tasha.xml
 proprietary/vendor/etc/mixer_paths.xml
-proprietary/vendor/etc/permissions/android.hardware.light.xml
 proprietary/vendor/etc/powerhint.xml
 proprietary/vendor/etc/qdcm_calib_data_5.xml
 proprietary/vendor/etc/qdcm_calib_data_8.xml
@@ -553,7 +540,6 @@ proprietary/vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 proprietary/vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so
 proprietary/vendor/lib/hw/camera.lilac.so
 proprietary/vendor/lib/hw/com.qualcomm.qti.ant@1.0-impl.so
-proprietary/vendor/lib/hw/lights.default.so
 proprietary/vendor/lib/hw/sound_trigger.primary.msm8998.so
 proprietary/vendor/lib/hw/thermal.somc.so
 proprietary/vendor/lib/hw/vendor.qti.esepowermanager@1.0-impl.so
@@ -870,7 +856,6 @@ proprietary/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so
 proprietary/vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 proprietary/vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so
 proprietary/vendor/lib64/hw/com.qualcomm.qti.ant@1.0-impl.so
-proprietary/vendor/lib64/hw/lights.default.so
 proprietary/vendor/lib64/hw/sound_trigger.primary.msm8998.so
 proprietary/vendor/lib64/hw/thermal.somc.so
 proprietary/vendor/lib64/hw/vendor.qti.esepowermanager@1.0-impl.so
