@@ -411,7 +411,6 @@ proprietary/vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti
 proprietary/vendor/bin/hw/vendor.semc.hardware.secd@1.0-service
 proprietary/vendor/bin/hw/vendor.semc.hardware.thermal@1.0-service
 proprietary/vendor/bin/hw/vendor.somc.hardware.camera.provider@1.0-service
-proprietary/vendor/bin/hw/vendor.somc.hardware.wifi@2.0-service
 proprietary/vendor/bin/ims_rtp_daemon
 proprietary/vendor/bin/imsdatadaemon
 proprietary/vendor/bin/imsqmidaemon
@@ -473,7 +472,6 @@ proprietary/vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc
 proprietary/vendor/etc/init/vendor.semc.hardware.secd@1.0-service.rc
 proprietary/vendor/etc/init/vendor.semc.hardware.thermal@1.0-service.rc
 proprietary/vendor/etc/init/vendor.somc.hardware.camera.provider@1.0-service.rc
-proprietary/vendor/etc/init/vendor.somc.hardware.wifi@2.0-service.rc
 proprietary/vendor/etc/libnfc-nci.conf
 proprietary/vendor/etc/libnfc-nxp-octopus.conf
 proprietary/vendor/etc/libnfc-nxp.conf
@@ -891,8 +889,6 @@ proprietary/vendor/lib64/vendor.semc.hardware.light@1.0.so
 proprietary/vendor/lib64/vendor.semc.hardware.thermal@1.0.so
 proprietary/vendor/lib64/vendor.semc.system.idd@1.0.so
 proprietary/vendor/lib64/vendor.somc.hardware.security.secd@1.0.so
-proprietary/vendor/lib64/vendor.somc.hardware.wifi.supplicant@2.0.so
-proprietary/vendor/lib64/vendor.somc.hardware.wifi@2.0.so
 proprietary/vendor/radio/qcril_database/qcril.db
 proprietary/vendor/radio/qcril_database/upgrade/upgrade/0_initial.sql
 proprietary/vendor/radio/qcril_database/upgrade/upgrade/1_version_intro.sql
