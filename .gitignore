@@ -432,7 +432,6 @@ proprietary/vendor/bin/qti
 proprietary/vendor/bin/rmt_storage
 proprietary/vendor/bin/sct_service
 proprietary/vendor/bin/sensors.qti
-proprietary/vendor/bin/ssgqmigd
 proprietary/vendor/bin/ta_qmi_service
 proprietary/vendor/bin/taimport_vendor
 proprietary/vendor/bin/tftp_server
