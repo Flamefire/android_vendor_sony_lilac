@@ -6,7 +6,6 @@ proprietary/bin/sony-modem-switcher
 proprietary/bin/taimport
 proprietary/bin/updatemiscta
 proprietary/etc/audio_policy.conf
-proprietary/etc/audio_policy.conf
 proprietary/etc/customization/modem/amss_fs_empty.mbn
 proprietary/etc/customization/modem/amss_fsg_lilac_a1_austria_volte_vowifi_tar.mbn
 proprietary/etc/customization/modem/amss_fsg_lilac_airtel_in_ims_tar.mbn
@@ -292,7 +291,6 @@ proprietary/lib/vendor.qti.esepowermanager@1.0.so
 proprietary/lib/vendor.qti.hardware.fm@1.0.so
 proprietary/lib/vendor.qti.hardware.qdutils_disp@1.0.so
 proprietary/lib/vendor.qti.hardware.qteeconnector@1.0.so
-proprietary/lib/vendor.qti.hardware.qteeconnector@1.0.so
 proprietary/lib/vendor.qti.hardware.radio.am@1.0.so
 proprietary/lib/vendor.qti.hardware.radio.lpa@1.0.so
 proprietary/lib/vendor.qti.hardware.radio.qcrilhook@1.0.so
@@ -346,7 +344,6 @@ proprietary/lib64/vendor.display.postproc@1.0.so
 proprietary/lib64/vendor.qti.esepowermanager@1.0.so
 proprietary/lib64/vendor.qti.hardware.fm@1.0.so
 proprietary/lib64/vendor.qti.hardware.qdutils_disp@1.0.so
-proprietary/lib64/vendor.qti.hardware.qteeconnector@1.0.so
 proprietary/lib64/vendor.qti.hardware.qteeconnector@1.0.so
 proprietary/lib64/vendor.qti.hardware.radio.am@1.0.so
 proprietary/lib64/vendor.qti.hardware.radio.lpa@1.0.so
