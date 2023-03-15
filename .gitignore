@@ -519,7 +519,8 @@ proprietary/vendor/etc/mixer_paths.xml
 proprietary/vendor/etc/powerhint.xml
 proprietary/vendor/etc/qdcm_calib_data_5.xml
 proprietary/vendor/etc/qdcm_calib_data_8.xml
-proprietary/vendor/etc/seccomp_policy/
+proprietary/vendor/etc/seccomp_policy/mediacodec.policy
+proprietary/vendor/etc/seccomp_policy/mediaextractor.policy
 proprietary/vendor/etc/sensors/
 proprietary/vendor/etc/sony_effect/
 proprietary/vendor/etc/sound_trigger_mixer_paths.xml
