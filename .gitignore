@@ -482,8 +482,9 @@ proprietary/vendor/etc/audio_policy_volumes.xml
 proprietary/vendor/etc/audio_tuning_mixer_tavil.txt
 proprietary/vendor/etc/audio_tuning_mixer.txt
 proprietary/vendor/etc/change.cfg
-proprietary/vendor/etc/cne/
-proprietary/vendor/etc/data/
+proprietary/vendor/etc/cne/wqeclient/ATT/
+proprietary/vendor/etc/cne/wqeclient/ROW/
+proprietary/vendor/etc/cne/wqeclient/VZW/
 proprietary/vendor/etc/default_volume_tables.xml
 proprietary/vendor/etc/firmware/
 proprietary/vendor/etc/flashled_calc_parameters.cfg
