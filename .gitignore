@@ -305,6 +305,8 @@ proprietary/lib/vendor.somc.hardware.camera.provider@1.0.so
 proprietary/lib64/com.qualcomm.qti.ant@1.0.so
 proprietary/lib64/com.qualcomm.qti.bluetooth_audio@1.0.so
 proprietary/lib64/libadsprpc_system.so
+proprietary/lib64/libcacao_client.so
+proprietary/lib64/libcacao_pal.so
 proprietary/lib64/libcdsprpc_system.so
 proprietary/lib64/libdevice_security_client.so
 proprietary/lib64/libFidoCrypto_system.so
