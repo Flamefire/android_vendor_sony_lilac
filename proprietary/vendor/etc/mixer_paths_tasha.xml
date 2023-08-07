@@ -2723,8 +2723,6 @@
         <ctl name="RX INT2_1 MIX1 INP0" value="RX1" />
         <ctl name="RX INT1 DEM MUX" value="CLSH_DSM_OUT" />
         <ctl name="RX INT2 DEM MUX" value="CLSH_DSM_OUT" />
-        <ctl name="RX1 Digital Volume" value="76" />
-        <ctl name="RX2 Digital Volume" value="76" />
     </path>
 
     <path name="headphones-44.1">
