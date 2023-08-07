@@ -761,7 +761,6 @@ proprietary/vendor/etc/libnfc-nci.conf
 proprietary/vendor/etc/libnfc-nxp-octopus.conf
 proprietary/vendor/etc/libnfc-nxp.conf
 proprietary/vendor/etc/listen_platform_info.xml
-proprietary/vendor/etc/mixer_paths_tasha.xml
 proprietary/vendor/etc/mixer_paths.xml
 proprietary/vendor/etc/powerhint.xml
 proprietary/vendor/etc/qdcm_calib_data_5.xml
