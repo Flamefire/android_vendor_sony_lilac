@@ -348,7 +348,6 @@ proprietary/vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti
 proprietary/vendor/bin/hw/vendor.semc.hardware.secd@1.0-service
 proprietary/vendor/bin/hw/vendor.semc.hardware.thermal@1.0-service
 proprietary/vendor/bin/hw/vendor.somc.hardware.camera.provider@1.0-service
-proprietary/vendor/bin/keyprovd
 proprietary/vendor/bin/mlog_qmi_service
 proprietary/vendor/bin/mm-pp-dpps
 proprietary/vendor/bin/msm_irqbalance
@@ -383,7 +382,6 @@ proprietary/vendor/etc/init/android.hardware.drm@1.1-service.widevine.rc
 proprietary/vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc
 proprietary/vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc
 proprietary/vendor/etc/init/fpc_fingerprint@2.1_HIDL-service.rc
-proprietary/vendor/etc/init/init.keyprovd.rc
 proprietary/vendor/etc/init/init.kobjeventd.rc
 proprietary/vendor/etc/init/init.taqmi.rc
 proprietary/vendor/etc/init/mlog_qmi_service.rc
