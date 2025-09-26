@@ -1,6 +1,4 @@
-Android.bp 
-Android.mk
-lilac-vendor.mk
+@ -1,711 +0,0 @@
 proprietary/bin/mssconfig
 proprietary/bin/sony-modem-switcher
 proprietary/bin/taimport
@@ -258,7 +256,6 @@ proprietary/framework/com.sonymobile.vibrationeffect_impl.jar
 proprietary/lib/com.qualcomm.qti.ant@1.0.so
 proprietary/lib/com.qualcomm.qti.bluetooth_audio@1.0.so
 proprietary/lib/libadsprpc_system.so
-proprietary/lib/libcacao_client.so
 proprietary/lib/libcacao_pal.so
 proprietary/lib/libcacao_process_ctrl_gateway.so
 proprietary/lib/libcacao_service.so
