@@ -1,0 +1,8 @@
+<exceptions>
+  <exception package="com.sonyericsson.android.camera">
+    <permission name="android.permission.CAMERA"/>
+    <permission name="android.permission.RECORD_AUDIO"/>
+    <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  </exception>
+</exceptions>
+
