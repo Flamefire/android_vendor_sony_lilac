@@ -257,7 +257,6 @@ proprietary/lib/com.qualcomm.qti.ant@1.0.so
 proprietary/lib/com.qualcomm.qti.bluetooth_audio@1.0.so
 proprietary/lib/libadsprpc_system.so
 proprietary/lib/libcacao_pal.so
-proprietary/lib/libcacao_process_ctrl_gateway.so
 proprietary/lib/libcacao_service.so
 proprietary/lib/libcdsprpc_system.so
 proprietary/lib/libFidoCrypto_system.so
