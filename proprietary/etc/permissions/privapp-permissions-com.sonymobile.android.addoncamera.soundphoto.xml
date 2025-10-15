@@ -1,0 +1,6 @@
+<permissions>
+  <privapp-permissions package="com.sonymobile.android.addoncamera.soundphoto">
+    <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+  </privapp-permissions>
+</permissions>
+
